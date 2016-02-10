@@ -1,5 +1,4 @@
 FROM ubuntu:trusty
-MAINTAINER Juha Lindstedt <juha@pakastin.fi>
 
 RUN apt-get -y update
 RUN apt-get -y install default-jre
