@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:trusty
 MAINTAINER Juha Lindstedt <juha@pakastin.fi>
 
 RUN apt-get -y update
